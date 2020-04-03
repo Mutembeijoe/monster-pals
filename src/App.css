@@ -1,3 +1,7 @@
 .App {
   text-align: center;
 }
+.App-Header{
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 70px;
+}

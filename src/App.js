@@ -25,7 +25,7 @@ class App extends Component {
     }
     return (
       <div className="App">
-      <h1>Monster Pals</h1>
+      <h1 className="App-Header">Monster Pals</h1>
       <Searchbox handleSearch={this.handleSearch}/>
       <CardList monsters={monsters}/>
       </div>
